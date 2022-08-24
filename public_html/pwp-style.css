@@ -1,10 +1,37 @@
-.navbar {
-    padding-right: revert;
-}
-.navbar {
-    margin-right: auto;
+body {
+    background-color:antiquewhite;
 }
 
-h2 {
-color: white
+form {
+    color: darkred;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+h1, h2, h4 {
+    color: darkred;
+    font-weight: bolder;
+    font-style: oblique;
+
+}
+
+ul {
+    background-color: darkred;
+}
+
+td, h5 {
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: large;
+}
+table {
+    background: darkred;
+    font-weight: bolder;
+    font-style: oblique;
+}
+p {
+    color: darkred;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: x-large;
 }
