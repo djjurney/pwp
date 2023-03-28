@@ -1,37 +1,76 @@
+/*body {*/
+/*    background-color:antiquewhite;*/
+/*}*/
+
+/*form {*/
+/*    color: darkred;*/
+/*    font-weight: bolder;*/
+/*    font-style: oblique;*/
+/*}*/
+
+/*h1, h2, h4 {*/
+/*    color: darkred;*/
+/*    font-weight: bolder;*/
+/*    font-style: oblique;*/
+
+/*}*/
+
+/*ul {*/
+/*    background-color: darkred;*/
+/*}*/
+
+/*td, h5 {*/
+/*    color: antiquewhite;*/
+/*    font-weight: bold;*/
+/*    font-size: large;*/
+/*}*/
+/*table {*/
+/*    background: darkred;*/
+/*    font-weight: bolder;*/
+/*    font-style: oblique;*/
+/*}*/
+/*p {*/
+/*    color: darkred;*/
+/*    font-weight: bolder;*/
+/*    font-style: oblique;*/
+/*    font-size: x-large;*/
+/*}*/
+
 body {
-    background-color:antiquewhite;
+    background-color: #99d6ff;
 }
 
 form {
-    color: darkred;
-    font-weight: bolder;
-    font-style: oblique;
+    color: #33cc33;
+    font-weight: normal;
+    font-style: normal;
 }
 
 h1, h2, h4 {
-    color: darkred;
-    font-weight: bolder;
-    font-style: oblique;
-
+    color: #800080;
+    font-weight: bold;
+    font-style: normal;
 }
 
 ul {
-    background-color: darkred;
+    background-color: #ffff66;
 }
 
 td, h5 {
-    color: antiquewhite;
-    font-weight: bold;
-    font-size: large;
+    color: #003399;
+    font-weight: normal;
+    font-size: medium;
 }
+
 table {
-    background: darkred;
-    font-weight: bolder;
-    font-style: oblique;
+    background: #cccccc;
+    font-weight: normal;
+    font-style: normal;
 }
+
 p {
-    color: darkred;
-    font-weight: bolder;
-    font-style: oblique;
-    font-size: x-large;
+    color: #000000;
+    font-weight: normal;
+    font-style: normal;
+    font-size: large;
 }
